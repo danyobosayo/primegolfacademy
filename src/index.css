@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Outfit:wght@100..900&display=swap');
+* {
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Outfit", sans-serif;
+}
+
+body{
+  background:whitesmoke;
+
+}
+a{
+  text-decoration:none;
+  color: inherit;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.headers{
+  font-family: "Outfit", sans-serif;
+}
+.container{
+ padding-left:20%;
+ padding-right:20%;   
+}
+.btn{
+  background: grey;
+  color: rgb(255, 255, 255);
+  padding:14px 25px;
+  font-size:20px;
+  border-radius:30px;
+  cursor: pointer;
+  border: 0;
+  outline: 0;
+}
