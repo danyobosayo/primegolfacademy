@@ -7,8 +7,7 @@
 }
 
 body{
-  background:whitesmoke;
-
+  background:rgb(254, 255, 251);
 }
 a{
   text-decoration:none;
@@ -25,10 +24,9 @@ a{
  padding-right:20%;   
 }
 .btn{
-  background: grey;
-  color: rgb(255, 255, 255);
+  background: rgb(240, 240, 240);
   padding:14px 25px;
-  font-size:20px;
+  font-size:16px;
   border-radius:30px;
   cursor: pointer;
   border: 0;
